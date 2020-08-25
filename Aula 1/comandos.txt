@@ -1,0 +1,139 @@
+C:\Users\vulquimarfdsj\Desktop\assassinato-na-linha-de-comando\assassinato-na-linha-de-comando\misterio\entrevistas
+λ history
+     1  cd ../
+     2  pwd
+     3  cd C:\Users\vulquimarfdsj\Desktop\assassinato-na-linha-de-comando\assassinato-na-linha-de-comando
+     4  grep "PISTA"
+     5  cat cena-do-crime
+     6  grep "PISTA" cena-do-crime.txt
+     7  grep "PISTA" cena-do-crime
+     8  grep "Annabel" AAA
+     9  cat Delta_SkyMiles
+    10  grep "Annabel" Delta SkyMiles
+    11  grep "Annabel Church" Biblioteca_da_Cidade
+    12  cat Biblioteca_da_Cidade
+    13  grep "Annabel" Biblioteca_da_Cidade
+    14  grep "Church" Biblioteca_da_Cidade
+    15  cat Biblioteca_da_Cidade
+    16  grep "cafeteria" Biblioteca_da_Cidade
+    17  grep "Annabel" Academia_Fitness
+    18  grep "Oluwasegun" Academia_Fitness
+    19  cat AAA
+    20  grep "Oluwasegun Annabel" AAA
+    21  grep "Oluwasegun" AAA
+    22  cat Museu_da_História_do_Bash
+    23  grep "Annabel" Museu_da_História_do_Bash
+    24  grep "homem" cena-do-crime
+    25  grep "Annabel" pessoas
+    26  grep "Vila Buckingham" Rua_
+    27  grep "Vila Buckingham" Rua
+    28  grep "Annabel" Rua
+    29  grep "Annabel" Vila_Buckingham
+    30  grep "high" Vila_Buckingham
+    31  grep "High" Vila_Buckingham
+    32  grep "Oluwasegun" Vila_Buckingham
+    33  grep "Annabel" automoveis
+    34  grep "1,83" automoveis
+    35  grep "Oluwasegun Annabel" automoveis
+    36  grep "Oluwasegun Annabel" "Placa" automoveis
+    37  grep -A 3 "Oluwasegun Annabel" automoveis
+    38  grep -A 3 "Annabel Church" automoveis
+    39  grep -A 4 "Annabel Church" automoveis
+    40  grep -A 5 "Annabel Church" automoveis
+    41  grep -A 6 "Annabel Church" automoveis
+    42  grep -A 7 "Annabel Church" automoveis
+    43  grep -A 3 "1,83" automoveis
+    44  grep -A 2 "1,83" automoveis
+    45  grep -A 6 "1,83" automoveis
+    46  grep -i "1,83" automoveis
+    47  grep -v "1,83" automoveis
+    48  grep -Riv "1,83" automoveis
+    49  ca Associação_de_ExAlunos
+    50  cat Associação_de_ExAlunos
+    51  cat Annabel
+    52  grep "Annabel" Associação_de_ExAlunos
+    53  cat REI
+    54  grep -R "Nova Zelândia" associacoes\
+    55  grep -R "sotaque"
+    56  grep -R "Alto"
+    57  grep -R "Nova Zelândia"
+    58  grep -R "loiro"
+    59  grep -R "Annabel Church"
+    60  grep -A3 "Annabel Church" automoveis
+    61  grep -R "Annabel Fuglsang"
+    62  grep -R "Annabel Sun"
+    63  cat README.md
+    64  grep -R "Annabel"
+    65  cat Rua_Haley
+    66  grep -R "man"
+    67  grep -R "homem" | grep "1,83"
+    68  grep -R "homem" | grep -R "1,83"
+    69  grep -R "Annabel" | grep -R "Nova Zelândia"
+    70  grep -R "Annabel" | grep -R "loiro"
+    71  grep -R "1,83" | grep -R "loiro"
+    72  grep -R "1,83" | grep -R "homem"
+    73  grep -R "1,83"
+    74  grep -R "Boyer owns"
+    75  grep -R "Waite"
+    76  grep -R "suspect"
+    77  cat inicio
+    78  clear
+    79  cat cena-do-crime
+    80  grep -R "PISTA"
+    81  grep -R "Annabel" pessoas
+    82  cat Rua_Hart
+    83  grep -R "Hart"
+    84  grep -R "Vila_Hart"
+    85  cat Vila_Hart
+    86  head -40
+    87  head -40 Vila_Hart
+    88  grep "47246024"
+    89  cat entrevista-47246024
+    90  cat Vila_Buckingham
+    91  head -179 Vila_Buckingham
+    92  cat entrevista-699607
+    93  cat automoveis
+    94  grep -R "Honda" | grep -R "Azul"
+    95  grep "L337" automoveis
+    96  grep -A3 "L337" automoveis
+    97  cat pessoas
+    98  grep "Jacqui Maher"
+    99  grep "Jacqui Maher" pessoas
+   100  grep "Jeremy Bowers" pessoas
+   101  grep "Joe Germuska" pessoas
+   102  cat Rua_Plainfield
+   103  head -275 Rua_Plainfield
+   104  cat Travessa_Dunstable
+   105  head -284 Travessa_Dunstable
+   106  cat Travessa_Andover
+   107  head -224 Travessa_Andover
+   108  cat entrevista-9620713
+   109  grep -R "Jeremy Bowers"
+   110  cat -A4 "Jeremy Bowers" automoveis
+   111  cat -A4 "Jeremy Bowers"
+   112  cat -A3 "Jeremy Bowers"
+   113  grep -A3 "Jeremy Bowers"
+   114  grep -A3 "Jeremy Bowers" automoveis
+   115  cd associacoes\
+   116  cat Academia_Fitness
+   117  grep "Jeremy Bowers"
+   118  grep "Jeremy Bowers" Academia_Fitness
+   119  cls
+   120  cat entrevista-904020
+   121  cat entrevista-29741223
+   122  cat pessoas
+   123  grep "Aron Pilhofer" pessoas
+   124  grep "Erika Owens" pessoas
+   125  cd misterio\
+   126  cd ruas\
+   127  cat Rua_Claybourne
+   128  head -98 Rua_Claybourne
+   129  head -145 Rua_Claybourne
+   130  cat Rua_Trapelo
+   131  head -98 Rua_Trapelo
+   132  cd ..
+   133  cd entrevistas\
+   134  ls
+   135  cat entrevista-5455315
+   136  cat entrevista-1767435
+   137  history
