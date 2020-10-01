@@ -157,7 +157,7 @@
 //         pares += 1
 //       }
 //   }
-//   return "Possui "+ pares + " numeros pares"
+//   return "Esse array possui "+ pares + " numeros pares"
 // }
 // console.log(numerosParesNoArray(array))
 
