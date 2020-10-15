@@ -1,0 +1,60 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    display: flex;
+    justify-content: space-evenly;
+    height: 90vh;
+}
+
+.semana {
+    border: 1px dotted rgb(53, 53, 53);
+    width: 14%;
+    padding: 5px;
+}
+label{
+    font-size: 18px;
+}
+
+li {
+    list-style-type: none;
+    font-size: 20px;
+  }
+  
+h3 {
+    text-align: center; 
+}
+
+.btn{
+    background-color: rgb(32, 81, 172);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+    width: 150px;
+    margin-left: 5px;
+    border-width: medium;
+    border-style: solid;
+    border-color: rgb(34, 67, 128);
+}
+input, select {
+	background-color: var(--color-green);
+	text-decoration: none;
+	padding: 1px 5px;
+	transition: .5s;
+    text-align: center;
+}
+.semana{
+    background-color: azure;
+    border-width: medium;
+    border-style: solid;
+    border-color: dimgray;
+}
