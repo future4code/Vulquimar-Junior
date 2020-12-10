@@ -1,0 +1,79 @@
+[
+  {
+    "id": 0,
+    "name": "Vulquimar",
+    "desc": "Desenvolvedor",
+    "age": 34,
+    "image": "1.jpg",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 1,
+    "name": "Axl Rose",
+    "desc": "Vocalista da banda Guns n' Roses",
+    "age": 58,
+    "image": "2.jpg",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 2,
+    "name": "Jimi Hendrix",
+    "desc": "Guitarrista 1942 - 1970",
+    "age": 28,
+    "image": "3.jpg",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 3,
+    "name": "Chorão",
+    "desc": "Cantor-compositor  1970 - 2013",
+    "age": 43,
+    "image": "4.jpg",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 4,
+    "name": "James Hetfield",
+    "desc": "Vocalista, guitarrista e produtor musical",
+    "age": 57,
+    "image": "5.jpg",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 5,
+    "name": "Steve Vai",
+    "desc": "Guitarrista",
+    "age": 60,
+    "image": "6.jpg",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  },
+  {
+    "id": 6,
+    "name": "Janis Joplin",
+    "desc": "Cantora-compositora  1943 - 1970",
+    "age": 27,
+    "image": "7.jpg",
+    "likedUsers": [],
+    "superLikedUsers": [],
+    "dislikedUsers": [],
+    "likedBy": []
+  }
+]
